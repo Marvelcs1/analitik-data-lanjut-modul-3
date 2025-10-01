@@ -52,6 +52,7 @@ watchdog==6.0.0
 pandas
 plotly
 streamlit
+matplotlib
 yfinance
 pandas-datareader
 prophet
