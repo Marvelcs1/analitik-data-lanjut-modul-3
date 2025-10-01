@@ -53,6 +53,7 @@ pandas
 plotly
 streamlit
 matplotlib
+numpy
 yfinance
 pandas-datareader
 prophet
